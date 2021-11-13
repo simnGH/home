@@ -1,0 +1,16 @@
+html {
+    font-family: "VT323", "Courier New";
+}
+
+body {
+    font-size: 1.25em;
+}
+
+.content {
+    max-width: 500px;
+    margin: auto;
+}
+
+a:hover {
+    background-color: yellow;
+}
